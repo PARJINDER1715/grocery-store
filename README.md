@@ -29,6 +29,7 @@ This is a basic interactive web project developed using **HTML**, **CSS**, and *
 This project is a simple example for learning purposes or as a starting point for more complex front-end applications.
 
 ## 📬 Contact
-
 For suggestions or questions, feel free to reach out.
+- Project developed by **Parjinder Singh**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)  
 
